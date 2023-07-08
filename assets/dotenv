@@ -1,0 +1,7 @@
+API_URL='https://apineteges.ninegon.com/api' #Node RAFA
+
+# API_URL='https://servertests-production.up.railway.app/api'
+
+# API_URL='http://localhost:51439/api' # .NET WINDOWS
+# API_URL='http://192.168.1.91:51439/api' # Movil localhost 
+# API_URL='http://192.168.1.91:3000/api' # Node localhost
